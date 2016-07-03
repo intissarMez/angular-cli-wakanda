@@ -11,7 +11,7 @@ npm install -g angular-cli
 ```
 
 * Create a file named "parsingExceptions.json" and place it at the root level of the project folder,then add this line to exclude the
-dist and tmp folders from indexing. 
+`dist` and `tmp` folders from indexing. 
 
 ```bash
 {
